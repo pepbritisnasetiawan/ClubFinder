@@ -27,7 +27,7 @@
 }
 
 .search-container > input::placeholder {
-  color: cornflowerblue;
+  color: rgb(42, 0, 105);
   font-weight: normal;
 }
 
@@ -36,7 +36,7 @@
   cursor: pointer;
   margin-left: auto;
   padding: 16px;
-  background-color: cornflowerblue;
+  background-color: rgb(42, 0, 105);
   color: white;
   border: 0;
   text-transform: uppercase;
